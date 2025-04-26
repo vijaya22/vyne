@@ -34,17 +34,32 @@ This will start your app at http://localhost:3000.
 ```
 
 #### 3. Available Scripts
-npm run dev — Start development server
+1. Start development server
+```
+npm run dev
+```
 
-npm run build — Build for production
+ 2. Build for production
+```
+npm run build
+```
 
-npm run start — Start production server
+ 3. Start production server
+```
+npm run start
+```
 
-npm run lint — Run ESLint
+4. Run ESLint
+```
+npm run lint
+```
 
-npm run format — Format code with Prettier
+5. Format code with Prettier
+```
+npm run format
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+6. You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ###### Deploy on Vercel
 
