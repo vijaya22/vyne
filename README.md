@@ -1,4 +1,4 @@
-# Vyne - Next.js Frontend Starter
+# Vyre - Next.js Frontend Starter
 
 Welcome to **Vyre** — a modern, scalable frontend starter built with **Next.js**! 🚀
 
